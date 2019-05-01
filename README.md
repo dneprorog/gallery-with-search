@@ -4,8 +4,9 @@
 
 [![NPM](https://img.shields.io/npm/v/gallery-search.svg)](https://www.npmjs.com/package/gallery-search) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-![Иллюстрация к проекту](https://github.com/dneprorog/gallery-with-search/master/img/image.png)
-
+![Иллюстрация к проекту 1](https://github.com/dneprorog/gallery-with-search/blob/master/img/gallery-search.png)
+![Иллюстрация к проекту 2](https://github.com/dneprorog/gallery-with-search/blob/master/img/gallery-search-1.png)
+![Иллюстрация к проекту 3](https://github.com/dneprorog/gallery-with-search/blob/master/img/gallery-search-2.png)
 ## Install
 
 ```bash
